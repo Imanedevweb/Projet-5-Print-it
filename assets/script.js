@@ -108,6 +108,5 @@ bannerImage.addEventListener('mouseout', function () {
 	slideshowInterval = setInterval(autoAdvance, intervalTime);
 });
 
-// Affichage initial de la première diapositive
+// afficher la diapo initiale
 showSlide(currentSlide);
-
